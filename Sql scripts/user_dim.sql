@@ -1,0 +1,13 @@
+USE `e-commerce-dwh`;
+DROP TABLE IF EXISTS dim_user;
+
+CREATE TABLE dim_user (
+    User_ID INT AUTO_INCREMENT PRIMARY KEY,
+    User_Name VARCHAR(255) NOT NULL,
+    Customer_Zip_Code VARCHAR(10),
+    Customer_City VARCHAR(100),
+    Customer_State VARCHAR(50),
+    Record_Created_Date DATETIME DEFAULT CURRENT_TIMESTAMP,
+    Record_Updated_Date DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    Is_Active BOOLEAN DEFAULT TRUE
+);
