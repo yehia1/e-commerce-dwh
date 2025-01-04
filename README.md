@@ -255,16 +255,16 @@ def add_feedback_and_payment(feedback_df,payment_df,df):
 
 ## Business Questions
 
-When is the peak season of our ecommerce ?
-What time users are most likely make an order or using the ecommerce app?
-What is the preferred way to pay in the ecommerce?
-How many installment is usually done when paying in the ecommerce?
-What is the average spending time for user for our ecommerce?
-What is the frequency of purchase on each state?
-Which logistic route that have heavy traffic in our ecommerce?
-How many late delivered order in our ecommerce? Are late order affecting the customer satisfaction?
-How long are the delay for delivery / shipping process in each state?
-How long are the difference between estimated delivery time and actual delivery time in each state?
+When is the peak season of our ecommerce ?  
+What time users are most likely make an order or using the ecommerce app?  
+What is the preferred way to pay in the ecommerce?  
+How many installment is usually done when paying in the ecommerce?  
+What is the average spending time for user for our ecommerce?  
+What is the frequency of purchase on each state?  
+Which logistic route that have heavy traffic in our ecommerce?  
+How many late delivered order in our ecommerce? Are late order affecting the customer satisfaction?  
+How long are the delay for delivery / shipping process in each state?  
+How long are the difference between estimated delivery time and actual delivery time in each state?  
 
 All Questions in this html format [Business Questions](Business%20questions.html)  
 All Questions in this pdf format [Business Questions](Business%20questions.pdf)
