@@ -1,4 +1,4 @@
-# Sales Data Mart (Adventure Works)
+# E-Commerce DWH
 - [Introduction](#Introduction)
 - [Technologies](#Technologies)
 - [Designing DWH](#Designing_DWH)
