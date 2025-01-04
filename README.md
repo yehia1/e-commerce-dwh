@@ -266,7 +266,7 @@ How many late delivered order in our ecommerce? Are late order affecting the cus
 How long are the delay for delivery / shipping process in each state?
 How long are the difference between estimated delivery time and actual delivery time in each state?
 
-All Questions in this [Business Questions](Business%20questions.html)
-All Questions in this [Business Questions](Business%20questions.pdf)
+All Questions in this html format [Business Questions](Business%20questions.html) \\
+All Questions in this pdf format [Business Questions](Business%20questions.pdf)
 
 ## Insights (to be added soon) 
